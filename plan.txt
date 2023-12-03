@@ -1,0 +1,15 @@
+1) We are creating the shopping cart website using the react with wordpress
+2) Design the e-commerence website
+    1. login
+    2. List Product
+    3. Product Details
+    4. cart
+    5. Checkout
+
+
+
+Reference website:
+1)https://woocommerce.github.io/woocommerce-rest-api-docs/
+ck_a01c40337755e0a28e316060e45a05437a10e245
+cs_c941c1287163164b1f7d6fd0388438db0b430a23
+2)https://github.com/Marian0/reactjs-woocommerce
